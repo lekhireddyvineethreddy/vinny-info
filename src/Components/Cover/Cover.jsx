@@ -54,7 +54,7 @@ const Cover = () => {
         </div>
         <div className="col-12 col-lg-4 offset-lg-1 text-center order-1 order-lg-2 py-5">
           <img
-            src="../public/assets/my image.jpg"
+            src="/assets/my image.jpg"
             alt="vineethreddy"
             className="img-fluid rounded-circle"
           />
