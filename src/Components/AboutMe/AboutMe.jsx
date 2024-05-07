@@ -5,7 +5,7 @@ const AboutMe = () => {
   return (
     <div className="container-fluid text-center my-5 py-5" id="about">
       <h3 className="py-5">
-        About <span>Mee</span>!
+        About <span>Me</span>...
       </h3>
       <div className="container my-5">
         <div className="row justify-content-center">
@@ -13,7 +13,7 @@ const AboutMe = () => {
             <h4 className="mt-5">Lekhireddy Vineethreddy</h4>
             <h6 className="mt-4 mb-5">
               <i>
-                Front-end <span>Developer</span>!
+                Front-end <span> Developer </span>!
               </i>
             </h6>
             <p className="py-2">

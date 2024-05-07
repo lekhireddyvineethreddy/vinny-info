@@ -9,10 +9,10 @@ const Cover = () => {
           <h4 className="font-weight-bold">Hello, It's me</h4>
           <h2 className="font-weight-bold">Lekhireddy Vineethreddy</h2>
           <h4 className="font-weight-bold mb-4 pb-2">
-            I'm a <span>Web Developer</span>
+            I'm a <span> Front-End Developer</span>
           </h4>
           <p className="font-weight-normal">
-            I'm a Student. Interested in Web Development and Freelancing
+           An enthusastatic Front-End Developer looking for opportunities thats keeps on challenging me 
           </p>
 
           <div className="social-media py-3">
@@ -46,7 +46,7 @@ const Cover = () => {
             </a>
           </div>
           <button
-            onClick={() => window.open("https://drive.google.com/file/d/1JComJLR_YwvLJ18ExG9NMhHo3nx3_gR6/view?usp=sharing", "_blank")}
+            onClick={() => window.open("https://drive.google.com/file/d/1TyW_lRQbicfpmWMygM5U2fpN4mfB19lh/view?usp=sharing", "_blank")}
             className="button my-3"
           >
             Download Resume🫠
