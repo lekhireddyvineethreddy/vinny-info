@@ -13,7 +13,7 @@ const AboutMe = () => {
             <h4 className="mt-5">Lekhireddy Vineethreddy</h4>
             <h6 className="mt-4 mb-5">
               <i>
-                Front-end <span> Developer </span>!
+                Front-end <span>Developer</span>
               </i>
             </h6>
             <p className="py-2">
