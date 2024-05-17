@@ -5,7 +5,7 @@ const Skills = () => {
   return (
     <div className="container-fluid my-5 py-5 text-center" id="skills">
       <h3 className="py-5 ">
-        My <span>Tech Stack </span> {/* &#9733 &#9733 */}
+        My <span> Skills </span> {/* &#9733 &#9733 */}
       </h3>
       <div className="container my-5 py-5 text-center" id="skillsContainer">
         <div className="row align-items-center justify-content-center">
