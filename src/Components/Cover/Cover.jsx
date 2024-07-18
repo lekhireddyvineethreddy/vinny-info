@@ -46,7 +46,7 @@ const Cover = () => {
             </a>
           </div>
           <button
-            onClick={() => window.open("https://drive.google.com/file/d/1TyW_lRQbicfpmWMygM5U2fpN4mfB19lh/view?usp=sharing", "_blank")}
+            onClick={() => window.open("https://drive.google.com/file/d/135lRdDAW7RumKrug91kraSqKolTXA_nJ/view?usp=sharing", "_blank")}
             className="button my-3"
           >
             Download Resume🫠
